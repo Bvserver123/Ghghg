@@ -7,38 +7,25 @@
 http://archive.org/download/ladarius34b_k964n_mygeoweb_2/AD1.m3u
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/71UHzVCjKPL._AC_UF894,1000_QL80_FMwebp_.jpg" group-title="Star+",AMERICAN HORROR HISTORY
 http://archive.org/download/ns_20210520/HOHIS.m3u
-
 #EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/ANDY  Y  MACK.jpg" group-title="Disney+",ANDY  Y  MACK
 http://archive.org/download/ns_20210520/ANDMA.m3u
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BOTk1NjAwOTM1OV5BMl5BanBnXkFtZTgwMzUwODQ3NzM@._V1_FMjpg_UX1000_.jpg" group-title="HBO MAX",ANIMAL KINGDOM
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BOTk1NjAwOTM1OV5BMl5BanBnXkFtZTgwMzUwODQ3NzM@._V1_FMjpg_UX1000_.jpg" group-title="HBO Max",ANIMAL KINGDOM
 https://archive.org/download/ns_20210520/AN1MAL.m3u
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMWRhYjZjOTQtOGNiNC00MTQ0LWE2MTYtMTQxYzEwNDE3NjYyXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_FMjpg_UX1000_.jpg" group-title="Series",ANOS MARAVILLOSOS
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMWRhYjZjOTQtOGNiNC00MTQ0LWE2MTYtMTQxYzEwNDE3NjYyXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_FMjpg_UX1000_.jpg" group-title="Disney+",ANOS MARAVILLOSOS
 http://archive.org/download/elch4v0/MARAVILLO.m3u
-
-#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/AÑOS MARAVILLOSOS.jpg" group-title="Series",AÑOS MARAVILLOSOS
-http://archive.org/download/gyjtyjtk/AosMaravilloso.m3u
-
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/ohGz4HDYGTite1GmRhRuBMVAn03.jpg" group-title="Netflix",Arcane (2021)
 https://archive.org/download/si2_20220111/arck.m3u
-
-#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/ARROW.jpg" group-title="Series",ARROW
+#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/ARROW.jpg" group-title="Netflix",ARROW
 http://archive.org/download/ns_20210520/arrow.m3u
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjA3NDk0NzM1MF5BMl5BanBnXkFtZTcwOTYxMTk3OQ@@._V1_FMjpg_UX1000_.jpg" group-title="Series",BAJO EL DOMO
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjA3NDk0NzM1MF5BMl5BanBnXkFtZTcwOTYxMTk3OQ@@._V1_FMjpg_UX1000_.jpg" group-title="Star+",BAJO EL DOMO
 https://archive.org/download/elch4v0/domi.m3u
-
-#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/BETTER CALL SAUL.jpg" group-title="Series",BETTER CALL SAUL
+#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/BETTER CALL SAUL.jpg" group-title="Netflix",BETTER CALL SAUL
 http://archive.org/download/ns_20210520/saul.m3u
-
-#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/BIG LITTLE LIES.jpg" group-title="Series",BIG LITTLE LIES
+#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/BIG LITTLE LIES.jpg" group-title="HBO Max",BIG LITTLE LIES
 http://archive.org/download/ns_20210520/BIGLIT.m3u
-
-#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/BLACK MIRROR.jpg" group-title="Series",BLACK MIRROR
+#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/BLACK MIRROR.jpg" group-title="Netflix",BLACK MIRROR
 http://archive.org/download/ns_20210520/BLACK%20MIRR.m3u
-
-#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/BLACK SUMMER.jpg" group-title="Series",BLACK SUMMER
+#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/BLACK SUMMER.jpg" group-title="Netflix",BLACK SUMMER
 http://archive.org/download/black-summer-serie/BLACK%20SUMMER%20%20SERIE.m3u
 
 #EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/BOJACK HORSEMAN.jpg" group-title="Series",BOJACK HORSEMAN
