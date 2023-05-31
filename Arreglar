@@ -3,10 +3,9 @@
 
 
 
-#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/AMERICAN DAD.jpg" group-title="Series",AMERICAN DAD
+#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/AMERICAN DAD.jpg" group-title="Star+",AMERICAN DAD
 http://archive.org/download/ladarius34b_k964n_mygeoweb_2/AD1.m3u
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/71UHzVCjKPL._AC_UF894,1000_QL80_FMwebp_.jpg" group-title="Series",AMERICAN HORROR HISTORY
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/71UHzVCjKPL._AC_UF894,1000_QL80_FMwebp_.jpg" group-title="Star+",AMERICAN HORROR HISTORY
 http://archive.org/download/ns_20210520/HOHIS.m3u
 
 #EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/ANDY  Y  MACK.jpg" group-title="Series",ANDY  Y  MACK
