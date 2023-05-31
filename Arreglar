@@ -1,24 +1,7 @@
-#EXTM3U
-#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/3%.jpg" group-title="Series",3%
-http://archive.org/download/tresporciento2/tresporciento.m3u
+#
 
-#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/31 MINUTOS.jpg" group-title="Series",31 MINUTOS
-http://archive.org/download/31-m-1-nu-70-t-3-mp-01/31M1NU70%24T3MP01.m3u
 
-#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/40 Y 20.jpg" group-title="Series",40 Y 20
-https://archive.org/download/elch4v0/40Y20.m3u
 
-#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/ALF.jpg" group-title="Series",ALF
-http://archive.org/download/listasaqui_ymail4_Alf/alf.m3u
-
-#EXTINF:-1 tvg-logo="" group-title="Series",A TECAHER
-http://archive.org/download/BVBW123/BV.M3U
-
-#EXTINF:-1 tvg-logo="" group-title="Series",ANNE WITH E
-http://archive.org/download/BVBW123/BW.M3U
-
-#EXTINF:-1 tvg-logo="" group-title="Series",ATYPICAL
-http://archive.org/download/BX123/BX.M3U
 
 #EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/AMERICAN DAD.jpg" group-title="Series",AMERICAN DAD
 http://archive.org/download/ladarius34b_k964n_mygeoweb_2/AD1.m3u
